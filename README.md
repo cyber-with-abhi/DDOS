@@ -16,7 +16,7 @@ $ pkg install git
 
 $ pkg install figlet
 
-$ git clone https://github.com/abhisheak-ui/DDOS.git
+$ git clone https://github.com/cyber-with-abhi/DDOS.git
 
 $ cd DDOS
 
